@@ -1,78 +1,102 @@
 {
-  "version": 1,
-  "updated_at": "2026-07-27T18:13:50.853080+00:00",
+  "version": 2,
+  "updated_at": "2026-07-27T21:54:34.375736+00:00",
   "instruments": {
     "USD_TRY": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 47.355
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 47.355
         }
       ],
       "current": 47.355,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "previous": 47.355,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "EUR_TRY": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 53.9326
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 53.9326
         }
       ],
       "current": 53.9326,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "previous": 53.9326,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "GBP_TRY": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 63.061
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 63.061
         }
       ],
       "current": 63.061,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "previous": 63.061,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "GRAM_ALTIN": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 6209.51
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 6208.14
         }
       ],
-      "current": 6209.51,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "current": 6208.14,
+      "previous": 6209.51,
+      "change": -1.37,
+      "change_pct": -0.02
     },
     "CEYREK_ALTIN": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 9953.84
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 9951.64
         }
       ],
-      "current": 9953.84,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "current": 9951.64,
+      "previous": 9953.84,
+      "change": -2.2,
+      "change_pct": -0.02
     },
     "TAM_ALTIN": {
       "history": [
         {
           "t": "2026-07-27T18:13:50.853080+00:00",
           "value": 39815.35
+        },
+        {
+          "t": "2026-07-27T21:54:34.375736+00:00",
+          "value": 39806.57
         }
       ],
-      "current": 39815.35,
-      "previous": null,
-      "change": 0,
-      "change_pct": 0
+      "current": 39806.57,
+      "previous": 39815.35,
+      "change": -8.78,
+      "change_pct": -0.02
     }
   },
   "sources": {
