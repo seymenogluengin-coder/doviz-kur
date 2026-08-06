@@ -1,6 +1,6 @@
 {
-  "version": 38,
-  "updated_at": "2026-08-05T22:19:44.780955+00:00",
+  "version": 39,
+  "updated_at": "2026-08-06T08:02:44.252459+00:00",
   "instruments": {
     "USD_TRY": {
       "history": [
@@ -155,12 +155,16 @@
         {
           "t": "2026-08-05T22:19:44.780955+00:00",
           "value": 47.576
+        },
+        {
+          "t": "2026-08-06T08:02:44.252459+00:00",
+          "value": 47.5736
         }
       ],
-      "current": 47.576,
-      "previous": 47.5736,
-      "change": 0.0024,
-      "change_pct": 0.01
+      "current": 47.5736,
+      "previous": 47.576,
+      "change": -0.0024,
+      "change_pct": -0.01
     },
     "EUR_TRY": {
       "history": [
@@ -315,12 +319,16 @@
         {
           "t": "2026-08-05T22:19:44.780955+00:00",
           "value": 54.9694
+        },
+        {
+          "t": "2026-08-06T08:02:44.252459+00:00",
+          "value": 54.9087
         }
       ],
-      "current": 54.9694,
-      "previous": 54.9087,
-      "change": 0.0607,
-      "change_pct": 0.11
+      "current": 54.9087,
+      "previous": 54.9694,
+      "change": -0.0607,
+      "change_pct": -0.11
     },
     "GBP_TRY": {
       "history": [
@@ -475,12 +483,16 @@
         {
           "t": "2026-08-05T22:19:44.780955+00:00",
           "value": 64.1264
+        },
+        {
+          "t": "2026-08-06T08:02:44.252459+00:00",
+          "value": 64.1778
         }
       ],
-      "current": 64.1264,
-      "previous": 64.1778,
-      "change": -0.0514,
-      "change_pct": -0.08
+      "current": 64.1778,
+      "previous": 64.1264,
+      "change": 0.0514,
+      "change_pct": 0.08
     },
     "GRAM_ALTIN": {
       "history": [
@@ -952,7 +964,7 @@
     }
   },
   "sources": {
-    "fx": "frankfurter",
-    "gold": "gold-api"
+    "fx": "tcmb",
+    "gold": null
   }
 }
